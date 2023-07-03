@@ -1,0 +1,27 @@
+html {
+    background-color: black;
+}
+
+#poster{
+    text-align: center;
+    border: 15px solid white;
+    margin-left: 300px;
+    margin-top: 50px;
+    color: antiquewhite;
+    
+}
+h1{
+     color: aliceblue;
+     font-family: 'Libre Baskerville', serif;
+}
+div{
+    margin-left: 430px;
+}
+h3{
+    color: aliceblue;
+    font-size: 15px;
+
+}
+#summa{
+    margin-left: 50px;
+}
